@@ -1,0 +1,18 @@
+Client Check Copy Request Form
+
+Client Information
+
+Client Name Craig Tober
+Client ID AD88069
+Client Address 22 rue des Lacs
+
+Check Information
+
+Check Number 68391629
+Check Date 2017-01-05
+Check Amount 138923 CAD
+(incl. currency)
+
+Employee who handled the request: John Doe, JD12326
+
+For internal use only – do not distribute to the client
